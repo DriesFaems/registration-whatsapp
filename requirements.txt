@@ -1,0 +1,4 @@
+requests
+streamlit
+openpyxl
+pyairtable == 2.3.3
